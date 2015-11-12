@@ -58,7 +58,7 @@ set backupskip=/tmp/*,/private/tmp/*
 set directory=~/.vim-tmp,~/.tmp,~/tmp,/var/tmp,/tmp 
 set writebackup
 
-execute pathogen#infect()
+" execute pathogen#infect()
 
 
 let g:syntastic_always_populate_loc_list = 1
